@@ -2,7 +2,7 @@
 
 
 A simple Python-based slot machine game where players can bet credits, spin the reels, and test their luck!
-This project is great for beginners looking to practice Python fundamentals like loops, dictionaries, randomization, and functions.
+(loops, dictionaries, randomization, and functions.)
 
 🚀 Features
 
