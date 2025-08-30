@@ -4,7 +4,7 @@
 A simple Python-based slot machine game where players can bet credits, spin the reels, and test their luck!
 (loops, dictionaries, randomization, and functions.)
 
-🚀 Features
+**🚀 Features**
 
 🎲 Randomized reels with symbols: A, B, C, D
 
@@ -22,7 +22,7 @@ D → 2x multiplier
 
 🔄 Continuous play until the balance runs out or the player quits
 
-🎮 How to Play
+**🎮 How to Play**
 
 Start the script.
 
